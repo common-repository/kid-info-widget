@@ -1,0 +1,163 @@
+# Copyright (C) 2010 Kid Info Widget
+# This file is distributed under the same license as the Kid Info Widget package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kid Info Widget 0.8\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/kid-info-widget\n"
+"POT-Creation-Date: 2011-06-22 12:55:28+00:00\n"
+"PO-Revision-Date: 2011-06-22 14:56+0100\n"
+"Last-Translator: Mike van Vendeloo <mikoosoft@vanvendeloo.net>\n"
+"Language-Team: Dutch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: kid-info-widget.php:34
+msgid "Widget to display age, weight, length and other information about a child."
+msgstr "Widget om informatie zoals leeftijd. gewicht, lengte en andere wetenswaardigheden over kinderen in een sidebar te plaatsen."
+
+#. #-#-#-#-#  plugin.pot (Kid Info Widget 0.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: kid-info-widget.php:40
+msgid "Kid Info Widget"
+msgstr "Kinder Informatie Widget"
+
+#: kid-info-widget.php:95
+msgid "Born on"
+msgstr "Geboren op"
+
+#: kid-info-widget.php:97
+msgid "gram"
+msgstr ""
+
+#: kid-info-widget.php:100
+msgid "cm"
+msgstr ""
+
+#: kid-info-widget.php:102
+msgid "Age"
+msgstr "Leeftijd"
+
+#: kid-info-widget.php:104
+#: kid-info-widget.php:250
+msgid "year"
+msgstr "jaar"
+
+#: kid-info-widget.php:107
+msgid "months"
+msgstr "maanden"
+
+#: kid-info-widget.php:110
+msgid "days"
+msgstr "dagen"
+
+#: kid-info-widget.php:113
+msgid "weeks"
+msgstr "weken"
+
+#: kid-info-widget.php:177
+msgid "Name"
+msgstr "Naam"
+
+#: kid-info-widget.php:179
+msgid "Content"
+msgstr "Inhoud"
+
+#: kid-info-widget.php:181
+msgid "Photo url"
+msgstr "Foto URL"
+
+#: kid-info-widget.php:182
+msgid "Width"
+msgstr "Breedte"
+
+#: kid-info-widget.php:185
+msgid "Date of birth"
+msgstr "Geboortedatum"
+
+#: kid-info-widget.php:185
+msgid "(YYYY-MM-DD)"
+msgstr "(JJJJ-MM-DD)"
+
+#: kid-info-widget.php:186
+msgid "Time of birth"
+msgstr "Geboren om"
+
+#: kid-info-widget.php:186
+msgid "(HH:MM)"
+msgstr "(UU:MM)"
+
+#: kid-info-widget.php:195
+msgid "Show age in weeks"
+msgstr "Toon leeftijd in weken"
+
+#: kid-info-widget.php:205
+msgid "Show birth weight"
+msgstr "Toon geboorte gewicht"
+
+#: kid-info-widget.php:206
+msgid "Birth weight"
+msgstr "Geboorte gewicht"
+
+#: kid-info-widget.php:206
+#: kid-info-widget.php:228
+msgid "(gram)"
+msgstr "(gram)"
+
+#: kid-info-widget.php:215
+msgid "Show birth length"
+msgstr "Toon geboorte lengte"
+
+#: kid-info-widget.php:217
+msgid "Birth length"
+msgstr "Geboorte lengte"
+
+#: kid-info-widget.php:226
+msgid "Show current weight"
+msgstr "Toon huidig gewicht"
+
+#: kid-info-widget.php:228
+msgid "Weight"
+msgstr "Gewicht"
+
+#: kid-info-widget.php:238
+msgid "Show current length"
+msgstr "Toon huidige lengte"
+
+#: kid-info-widget.php:239
+msgid "Length"
+msgstr "Lengte"
+
+#: kid-info-widget.php:242
+msgid "Custom CSS class"
+msgstr "Aangepaste CSS klasse"
+
+#: kid-info-widget.php:253
+msgid "month(s)"
+msgstr "maanden"
+
+#: kid-info-widget.php:256
+msgid "day(s)"
+msgstr "dagen"
+
+msgid "lastupdated"
+msgstr "laatste wijziging"
+
+#. Plugin URI of the plugin/theme
+msgid "http://mike.vanvendeloo.net/wordpress-kid-info-widget"
+msgstr ""
+
+
+#. Description of the plugin/theme
+msgid "Developed to be able to display age, weight, length and other information about one or more kids in the widget area's."
+msgstr "Ontwikkelt om informatie, zoals leeftijd, geboortegewicht e.d. over 1 of meer kinderen in het widget gebied te tonen."
+
+#. Author of the plugin/theme
+msgid "Mike van Vendeloo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://mike.vanvendeloo.net"
+msgstr ""
+

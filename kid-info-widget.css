@@ -1,0 +1,21 @@
+/* CSS Document 
+Author: Mike van Vendeloo
+Website: http://mike.vanvendeloo.net/wordpress-kid-info-widget
+*/
+/* Generic class for styling the whole kid info widget block. Add a custom style in the admin to override styles in this file. */
+.kidinfo {padding: 0px;}
+
+/* styling of the table where the thumbnail and birth information is shown */
+.kidinfo_table {padding:0px;}
+
+/* Styling of the custom context div block */
+.kidinfo_content {color:#000000; width:100%;}
+
+/* Styling of the thumbnail image */
+.kidinfo_thumbnail { border:2px solid #000; margin: 0px;}
+
+.kidinfo_photo {float:left;clear:left;}
+.kidinfo_info { float:right;clear:right; padding-left:4px}
+.kidinfo_label {width: 60px;clear:right;}
+/* Example custom class to be used to distinguish for instance colors per kid. This is an example with pink letters and a different font family. */
+.sample_custom_class { color: #FF00FF; font-family: 'Comic Sans MS','Lucida Casual';}
